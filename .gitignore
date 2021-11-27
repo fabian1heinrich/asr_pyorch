@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+my_files/
+.ipynb_checkpoints/
+airbus_dataset/
+saved_models/
